@@ -9,5 +9,7 @@ Before running the AutoScraper, make sure you have the following:
 Python 3.x installed on your system.
 
 The necessary libraries installed. You can install them by running the following command:
+
      1) pip install selenium
+     
      2) pip install pandas
